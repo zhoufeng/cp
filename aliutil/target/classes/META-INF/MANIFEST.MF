@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: kmn
+Build-Jdk: 1.6.0_43
+Specification-Title: aliutil
+Specification-Version: 0.0.6-SNAPSHOT
+Implementation-Title: aliutil
+Implementation-Version: 0.0.6-SNAPSHOT
+Implementation-Vendor-Id: com.shenma.ali
+Created-By: Maven Integration for Eclipse
+
